@@ -15,7 +15,7 @@
 
 You can download the latest version of the EchoMark installer via:
 
-🔗 [GitHub Release Assets](https://github.com/Divyanshu-RS/EchoMark-Watermarking/releases)
+🔗 [GitHub Release Assets]([https://github.com/Divyanshu-RS/EchoMark-Watermarking/releases](https://github.com/Divyanshu-RS/EchoMark-Watermarking/releases/download/v1.0.0/EchoMark.Watermarking.exe))
 
 ---
 
